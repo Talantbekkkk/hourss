@@ -1,0 +1,844 @@
+@media (max-width: 1440px) {
+ .container{
+     width: 90%;
+ }
+    .menu_btn {
+        display: none;
+    }
+}
+@media (max-width: 1200px) {
+    .menu_btn {
+        display: none;
+    }
+    .menu_box {
+        display: none;
+    }
+    .hourses h1 {
+             font-size: 60px;
+         }
+    .hourses p {
+        font-size: 20px;
+    }
+    .hourses-img img {
+        width: 1200px;
+    }
+
+}
+@media (max-width: 1024px) {
+    .hourse-tit img {
+        margin-left: 150px;
+    }
+    .dekret h1 {
+        font-size: 40px;
+    }
+    .dekret p {
+        font-size: 18px;
+    }
+    .whhi p {
+        font-size: 20px;
+    }
+    .almost p {
+        font-size: 20px;
+    }
+    .circle {
+        display: none;
+    }
+    .blurr {
+        width: 960px;
+    }
+    #hourses {
+         width: 1024px;
+     }
+    .hourses-img img {
+        width: 1050px;
+    }
+    .chip-text h1 {
+        font-size: 60px;
+    }
+
+
+
+
+}
+@media (max-width: 992px) {
+    .blurr {
+        width: 940px;
+    }
+    .hourse-tit img {
+        margin-left: 100px;
+    }
+    #hourses {
+        width: 100%;
+    }
+    .hourses-img img {
+    width: 1020px;
+    }
+    .pb {
+        padding-bottom: 20px;
+    }
+
+}
+@media (max-width: 768px) {
+    .black-text h2 {
+        margin-left: 150px;
+    }
+
+    .blurr {
+        width: 730px;
+    }
+
+    .dekret p {
+        font-size: 15px;
+    }
+
+    .hourse-tit img {
+        margin-left: 100px;
+        width: 450px;
+    }
+
+    .whhi img {
+        padding-top: 40px;
+        width: 400px;
+    }
+
+    .whhi h1 {
+
+        font-size: 50px;
+    }
+
+    .whhi p {
+        font-size: 16px;
+    }
+
+    .almost h1 {
+        font-size: 38px;
+    }
+
+    .almost p {
+        font-size: 16px;
+    }
+
+    .hourses-img img {
+        width: 805px;
+        height: 293px;
+    }
+
+    .comentt-img {
+        display: none;
+    }
+
+    .img2 {
+        margin-left: 60px;
+        padding-top: 6px;
+    }
+
+    .img1 {
+        margin-left: 1px;
+    }
+
+    .chip-text h1 {
+        font-size: 50px;
+        padding-top: 1px;
+        margin-left: 30px;
+    }
+
+    .chip-text p {
+        font-size: 21px;
+        margin-left: 30px;
+        margin-top: 40px;
+    }
+
+    .chip-text button {
+
+        margin-left: 30px;
+        margin-top: 40px;
+    }
+
+    .sokany-img img {
+        width: 450px;
+    }
+
+    .pb {
+        padding-bottom: 100px;
+    }
+
+    .sokany-block img {
+        margin-left: 70px;
+    }
+
+    .sokany-block p {
+        font-size: 16px;
+    }
+
+    .footer h1 {
+        font-size: 50px;
+    }
+}
+@media (max-width: 576px) {
+    .header-block a {
+        display: none;
+    }
+
+    .menu_btn {
+        display: flex;
+    }
+
+    .hero h1 {
+        font-size: 90px;
+    }
+
+    .black-text h2 {
+        margin-left: 90px;
+        font-size: 80px;
+    }
+
+    .image-text h1 {
+        font-size: 55px;
+    }
+
+    .image-text p {
+        font-size: 21px;
+    }
+
+    .blurr {
+        width: 500px;
+    }
+
+    .dekret h1 {
+        font-size: 33px;
+    }
+
+    .dekret p {
+        font-size: 13px;
+    }
+
+    .hourse-text button {
+        width: 250px;
+        margin-bottom: 18px;
+    }
+    .hourse-tit img {
+        margin-left: 10px;
+        width: 380px;
+    }
+    .whhi img {
+        height: 450px;
+        margin-right: 40px;
+    }
+    .whhi h1 {
+        font-size: 37px;
+        padding-bottom: 18px;
+
+    }
+    .whhi p {
+        font-size: 13px;
+    }
+    .whhi-h p {
+
+        margin-top: 420px;
+        margin-left: -170px;
+    }
+    .whhi-myshka {
+        margin-top: 415px;
+        margin-left: 140px;
+        padding-top: 4px;
+    }
+    .pw{
+        padding-bottom: 50px;
+    }
+    .almost h1 {
+        font-size: 31px;
+    }
+    .el\,ekk img {
+        width: 320px;
+    }
+    .almost p {
+        font-size: 14px;
+    }
+    .hourses h1 {
+        font-size: 48px;
+    }
+    .hourses p {
+        font-size: 18px;
+    }
+    .hourses-img img {
+        width: 623px;
+        height: 320px;
+    }
+    .coment-block p {
+        font-size: 11px;
+        color: #0B4141;
+    }
+    .coment-block h3 {
+        font-size: 10px;
+    }
+    .coment-block {
+        margin-left: -10px;
+    }
+    .coment-block-2 {
+        margin-left: -10px;
+    }
+    .coment-block-2 h3 {
+        font-size: 12px;
+    }.img-title img {
+         width: 200px;
+         height: 200px;
+     }
+    .chip-text h1 {
+        font-size: 40px;
+    }
+    .img2 {
+        margin-left: 10px;
+        padding-top: 6px;
+    }
+    .chip-text p {
+        font-size: 15px;
+        margin-left: 10px;
+        margin-top: 40px;
+    }
+    .chip-text h1 {
+        font-size: 30px;
+    }
+    .chip-text p {
+        padding-bottom: 150px;
+        padding-top: 60px;
+    }
+    .sokany-img img {
+        width: 200px;
+        height: 200px;
+    }
+    .sokany-block img {
+        width: 50px;
+    }
+    .sokany-block h1 {
+        font-size: 30px;
+    }
+    .sokany-block p {
+        font-size: 14px;
+    }
+}
+@media (max-width: 451px) {
+    .logo-img {
+        color: #0B4141;
+        margin-left: -70px;
+    }
+
+    .header-block button {
+        margin-left: 80px;
+    }
+
+    .blurr {
+        width: 420px;
+    }
+
+    .dekret h1 {
+        font-size: 23px;
+    }
+
+    .dekret p {
+        font-size: 10px;
+    }
+
+    .hourse-text button {
+        width: 150px;
+        margin-bottom: 18px;
+        font-size: 10px;
+    }
+
+    .whhi img {
+        padding-top: 40px;
+        width: 200px;
+    }
+
+    .whhi-myshka {
+        margin-top: 415px;
+        margin-left: 10px;
+        padding-top: 4px;
+    }
+
+    .whhi h1 {
+        font-size: 30px;
+    }
+
+    .el\,ekk img {
+        width: 220px;
+    }
+
+    .almost h1 {
+        font-size: 25px;
+    }
+
+    .almost p {
+        font-size: 12px;
+    }
+
+    .hourses h1 {
+        font-size: 40px;
+    }
+
+    .hourses p {
+        font-size: 14px;
+    }
+
+    .hourses-img img {
+        width: 503px;
+        height: 299px;
+    }
+
+    .started h1 {
+        font-size: 48px;
+    }
+
+    .coment-3 {
+        display: none;
+    }
+
+    .img-title img {
+        width: 150px;
+        height: 150px;
+        margin: 5px 0;
+    }
+
+    .chip-text h1 {
+        font-size: 25px;
+    }
+
+    .chip-text p {
+        padding-top: 10px;
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    .chip-text button {
+        margin-left: 30px;
+        margin-top: -20px;
+    }
+
+    .footer h1 {
+        font-size: 45px;
+    }
+
+    .menu_btn {
+        position: absolute;
+    }
+}
+@media (max-width: 400px) {
+    .header-block button {
+        margin-left: 1px;
+    }
+    .header-block button {
+        width: auto;
+        height: 40px;
+    }
+    .black-text h2 {
+        margin-left: auto;
+    }
+    .zaibal {
+        margin: 0;
+    }
+    .hourse-tit img {
+        margin-left: 10px;
+        width: 300px;
+    }
+    .hourse-text button {
+        height: 39px;
+    }
+    .dekret p {
+        font-size: 9px;
+        padding-bottom: 20px;
+    }
+    .whhi p {
+        font-size: 10px;
+    }
+    .whhi-h p {
+        margin-top: 340px;
+        margin-left: -130px;
+    }
+    .whhi-myshka {
+        margin-top: 340px;
+        margin-left: 55px;
+        padding-top: 4px;
+    }
+    .pw {
+        padding-bottom: 1px;
+    }
+    .almost h1 {
+        font-size: 29px;
+        padding-bottom: 10px;
+    }
+    .almost p {
+        font-size: 10px;
+        padding-bottom: 20px;
+    }
+    .hourses-img img {
+        width: 455px;
+        height: 239px;
+    }
+    .started h1 {
+        padding-bottom: 1px;
+        padding-top: 30px;
+        font-size: 38px;
+    }
+    #coment {
+        margin-top: 609px;
+    }
+    .blurr {
+        width: 350px;
+    }
+    .hero {
+        min-height: 1vh;
+    }
+    .chip-text p {
+        padding-top: 25px;
+        font-size: 10px;
+        margin-left: 30px;
+        padding-bottom: 120px;
+
+    }
+    .image-text p {
+        font-size: 16px;
+    }
+    .image-text h1 {
+        font-size: 40px;
+    }
+    #fonn {
+        height: 610px;
+    }
+    .pb {
+        padding-bottom: 40px;
+    }
+    .chip-text button {
+        margin-top: -20px;
+    }
+    .sokany-block p {
+        font-size: 12px;
+    }
+    .sokany-block h1 {
+        font-size: 27px;
+    }
+    .sokany-block img {
+        margin-left: 40px;
+    }
+    .footer h1 {
+        font-size: 33px;
+    }
+    .footer-block {
+        padding: 10px 20px;
+        margin: 1px 3px;
+
+    }
+    #footer {
+        height: 450px;
+    }
+}
+@media (max-width: 376px) {
+    .img {
+        margin-left: -9px;
+    }
+    .image-text h1 {
+        padding-bottom: 0;
+        padding-top: 20px;
+    }
+    #fonn {
+        height: 500px;
+    }
+    .image-text h1 {
+        font-size: 35px;
+    }
+    .image-text p {
+        font-size: 13px;
+    }
+    .hourse-tit img {
+        margin-left: 1px;
+        padding-top: 20px;
+    }
+    .whhi h1 {
+        font-size: 23px;
+        margin-top: -80px;
+    }
+    .whhi-h p {
+        margin-top: 250px;
+        margin-left: -80px;
+    }
+    .el\,ekk img {
+        width: 194px;
+    }
+    .hourses h1 {
+        font-size: 35px;
+        padding-top: 13px;
+        padding-bottom: 26px;
+    }
+    #hourses {
+        height: 490px;
+    }
+
+    .coment-block {
+        margin-left: 6px;
+    }
+    .coment-block-2 {
+        margin-left: 6px;
+    }
+    .img-title img {
+        width: 122px;
+        height: 122px;
+    }
+    .sokany-block p {
+        font-size: 10px;
+        margin-left: 28px;
+    }
+    .sokany-block img {
+        margin-left: 65px;
+        width: 44px;
+    }
+    .sokany-block button {
+        padding: 4px 19px;
+        width: 168px;
+        height: 32px;
+        margin-left: 24px;
+    }
+    .footer h1 {
+        font-size: 26px;
+    }
+    .footer-text {
+        padding-top: 50px;
+    }
+    #footer {
+        height: 409px;
+    }
+    .footer-block {
+        padding: 19px 42px;
+        margin: 2px 2px;
+    }
+
+    .sokany-block h1 {
+        font-size: 20px;
+        margin-left: 40px;
+    }
+    .chip-text button {
+        padding: 9px 7px;
+    }
+    .chip-text p {
+        font-size: 9px;
+        padding-bottom: 87px;
+    }
+    .chip-text h1 {
+        font-size: 16px;
+        padding-top: 25px;
+    }
+    #coment {
+        margin-top: 489px;
+    }
+    .coment-block h3 {
+        font-size: 8px;
+    }
+    .coment-block p {
+        font-size: 9px;
+
+    }
+    .coment-block-2 h3 {
+        font-size: 8px;
+    }
+    .coment-block-2 p {
+        font-size: 9px;
+    }
+    .hourses p {
+        font-size: 11px;
+    }
+    .hourses-img img {
+        width: 431px;
+        height: 220px;
+    }
+    .almost h1 {
+        font-size: 22px;
+    }
+    .almost p {
+        font-size: 9px;
+    }
+    .whhi-myshka {
+        margin-top: 252px;
+        margin-left: 115px;
+        padding-top: 4px;
+    }
+    .whhi p {
+        font-size: 9px;
+
+    }
+    .dekret p {
+        font-size: 8px;
+    }
+    .dekret h1 {
+        font-size: 20px;
+    }
+}
+@media (max-width: 320px) {
+    .logo-img {
+        color: #0B4141;
+        margin-left: -54px;
+    }
+    .aisu img{
+        margin-left: 3px;
+    }
+    .hero h1 {
+        font-size: 65px;
+    }
+    .aisu img{
+        margin-left: -1px;
+    }
+    .header-block button {
+        width: 93px;
+        height: 33px;
+        text-align: center;
+        padding-top: 6px;
+        margin-right: 6px;
+    }
+
+    .black-text h2 {
+        flex: 20px;
+        margin-left: -40px;
+    }
+    .image-text h1 {
+        font-size: 29px;
+        padding-top: 10px;
+    }
+    .blurr {
+        width: 298px;
+    }
+    .dekret h1 {
+        padding-top: 20px;
+        padding-bottom: 10px;
+        font-size: 18px;
+    }
+
+    .hourse-tit img {
+        margin-left: 19px;
+        width: 228px;
+        padding-top: 47px;
+    }
+    .hourse-text button {
+        width: 99px;
+        margin-bottom: 16px;
+        font-size: 6px;
+        height: 23px;
+    }
+    .dekret p {
+        font-size: 7px;
+    }
+        .whhi img {
+            height: 370px;
+            margin-left: -10px;
+            padding-top: 40px;
+            width: 186px;
+        }
+    .whhi h1 {
+        font-size: 18px;
+        margin-top: -3px;
+        margin-left: -20px;
+    }
+    .whhi p {
+        font-size: 9px;
+        margin-left: -20px;
+    }
+    .whhi-h p {
+        display: none;
+    }
+    .almost h1 {
+        font-size: 17px;
+    }
+    .almost p {
+        font-size: 7px;
+    }
+
+    .el\,ekk img {
+        width: 158px;
+        margin-left: 20px;
+    }
+    .hourses h1 {
+        font-size: 28px;
+        padding-top: 4px;
+        padding-bottom: 17px;
+    }
+    .hourses-img img {
+        width: 381px;
+        height: 193px;
+    }
+    #hourses {
+        height: 433px;
+    }
+    .coment-block {
+        margin-left: -7px;
+    }
+    .coment-block-2 {
+        margin-left: -7px;
+    }
+    .comentt-img img {
+        margin-left: 100px;
+    }
+    .started h1 {
+        padding-bottom: 1px;
+        padding-top: 16px;
+        font-size: 29px;
+    }
+    #coment {
+        margin-top: 438px;
+    }
+
+
+
+    .whhi-myshka {
+       display: none;
+    }
+    .aisu {
+        margin-left: 33px;
+    }
+    .chip-text p {
+        font-size: 7px;
+        padding-bottom: 87px;
+    }
+    .chip-text button {
+        font-size: 9px;
+        padding: 6px 7px;
+    }
+    .img-title img {
+        width: 117px;
+        height: 122px;
+    }
+    .pb {
+        padding-bottom: 15px;
+    }
+    .chip-text h1 {
+        font-size: 14px;
+        padding-top: 35px;
+    }
+    .sokany-block p {
+        font-size: 8px;
+        margin-left: 32px;
+    }
+    .sokany-block h1 {
+        font-size: 20px;
+        padding-bottom: 13px;
+    }
+    .footer-text p {
+        font-size: 11px;
+    }
+    #footer {
+        height: 390px;
+    }
+    .footer-img {
+
+        display: none;
+    }
+    .footer-block {
+        padding: 10px 30px;
+        margin: 2px 2px;
+    }
+    .sokany-block button {
+        width: 143px;
+        font-size: 10px;
+    }
+    .sokany-block img {
+
+        margin-top: 20px;
+        padding-top: 24px;
+    }
+}
+
+
